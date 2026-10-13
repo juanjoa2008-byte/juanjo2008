@@ -1,29 +1,32 @@
 <div align="center">
 
-<!-- CABECERA PRINCIPAL PROFESIONAL CON TONOS NEÓN Y ELEGANTE -->
-<img src="https://capsule-render.vercel.app/render?type=soft&color=auto&custom_colors=0:00F2FE,50:4F46E5,100:9333EA&height=220&section=header&text=JUAN%20JOS%C3%89%20AREIZA&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=SOFTWARE%20ENGINEER%20%7C%20AI%20INTEGRATION%20SPECIALIST&descSize=16&descAlignY=70&descAlign=50" width="100%" />
+<!-- HEADER ELEGANTE JSGOLDENFLOW -->
+<img src="https://capsule-render.vercel.app/render?type=slant&color=111827&custom_colors=0:0d1117,100:1e1b4b&height=230&section=header&text=JSGOLDENFLOW&fontSize=52&fontColor=F59E0B&animation=fadeIn&fontAlignY=42&desc=DEVELOPMENT%20STUDIO%20%7C%20AI%20SOLUTIONS%20%7C%20SOFTWARE%20ENGINEERING&descSize=14&descColor=D1D5DB&descAlignY=68" width="100%" />
+
+# 👑 JUAN JOSÉ AREIZA SÁNCHEZ
+### 🚀 Founder & Lead Developer at **JSGOLDENFLOW**
+**Analista y Desarrollador de Software | Tecnólogo ADSO — SENA CTGI**
 
 <br/>
 
-<!-- BADGES DE NAVEGACIÓN Y CONTACTO DIRECTO -->
-<a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:tu-correo@ejemplo.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://soysena.edu.co"><img src="https://img.shields.io/badge/SoySENA_ADSO-39A900?style=for-the-badge&logo=sena&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Medell%C3%ADn_CO-00F2FE?style=for-the-badge&logo=googlemaps&logoColor=black" /></a>
-
-<br/><br/>
+<p align="center">
+  <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:tu-correo@ejemplo.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://soysena.edu.co"><img src="https://img.shields.io/badge/SENA_ADSO-39A900?style=for-the-badge&logo=sena&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Medellín_CO-F59E0B?style=for-the-badge&logo=googlemaps&logoColor=black" /></a>
+</p>
 
 </div>
 
 ---
 
-## 🖥️ TERMINAL DE CONTROL (`juan-areiza@dev:~#`)
+## ⚡ SOBRE MÍ & JSGOLDENFLOW
 
-```bash
-> systeminfo --user "Juan José Areiza Sánchez"
-
-[+] Rol Principal     : Analista & Desarrollador de Software (Tecnólogo ADSO)
-[+] Centro Académico  : SENA CTGI - Regional Antioquia (Ficha 3425707)
-[+] Enfoque T&D       : Arquitectura Web, Prompt Engineering & Refactorización con IA
-[+] Core Tech Stack   : JavaScript (ES6+), Python, CodeGPT, Git/GitHub, M365 Ecosystem
-[+] Estado Actual     : 🚀 Diseñando soluciones escalables e integrando Asistentes de IA
+```yaml
+Developer Profile:
+  Fundador: JSGOLDENFLOW (Desarrollo Web, Soluciones Digitales y Automatización)
+  Formación: Tecnólogo en Análisis y Desarrollo de Software (ADSO) - SENA Regional Antioquia
+  Centro Académico: Centro Textil y de Gestión Industrial (CTGI) - Ficha 3425707
+  Ubicación: Medellín, Colombia 🇨🇴
+  Especialidad: Arquitectura de Software, Refactorización asistida por IA (CodeGPT), Metodologías Ágiles
+  Misión: Transformar necesidades de negocio en software de alto valor bajo la marca JSGOLDENFLOW
