@@ -20,8 +20,8 @@
 
 | Contacto | Detalle / Enlace |
 | :--- | :--- |
-| 📱 **Teléfono:** | [+57 300 000 0000](tel:+573000000000) |
-| 📧 **Correo Electrónico:** | [tu-correo@ejemplo.com](mailto:tu-correo@ejemplo.com) |
+| 📱 **Teléfono:** | [+57 3136993853](tel:+573136993853) |
+| 📧 **Correo Electrónico:** | [juanjo.a2008@gmail.com](juanjo.a2008@gmail.com) |
 | 📍 **Ubicación:** | Medellín, Colombia 🇨🇴 |
 | 💼 **LinkedIn:** | [linkedin.com/in/tu-perfil](https://linkedin.com) |
 | 🌐 **Portafolio:** | [tu-portafolio.com](https://github.com) |
@@ -53,4 +53,4 @@ Apasionado Tecnólogo en Análisis y Desarrollo de Software (ADSO) con formació
 ```mermaid
 timeline
     title Formación Académica
-    2026 : Tecnología en Análisis y Desarrollo de Software (ADSO) : SENA Regional Antioquia (Ficha 3425707)
+    2025 JOSE MARIA BRAVO MARQUEZ :2026 : Tecnología en Análisis y Desarrollo de Software (ADSO) : SENA Regional Antioquia (Ficha 3425707)
