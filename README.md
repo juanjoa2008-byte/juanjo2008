@@ -47,5 +47,5 @@ Apasionado Tecnólogo en Análisis y Desarrollo de Software (ADSO) con formació
 
 ## 📞 Información de Contacto
 - **Ubicación:** Medellín, Colombia
-- **Correo Electrónico:** tu-correo@ejemplo.com
+- **Correo Electrónico:** juanjo.a2008@gmail.com
 - **LinkedIn:** https://linkedin.com/in/tu-perfil
