@@ -53,4 +53,4 @@ Apasionado Tecnólogo en Análisis y Desarrollo de Software (ADSO) con formació
 ```mermaid
 timeline
     title Formación Académica
-    2025 JOSE MARIA BRAVO MARQUEZ :2026 : Tecnología en Análisis y Desarrollo de Software (ADSO) : SENA Regional Antioquia (Ficha 3425707)
+    2025 JOSE MARIA BRAVO MARQUEZ 2026 : Tecnología en Análisis y Desarrollo de Software (ADSO) : SENA Regional Antioquia (Ficha 3425707)
