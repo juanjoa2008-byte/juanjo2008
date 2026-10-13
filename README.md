@@ -1,51 +1,38 @@
-# 👋 ¡Hola, soy Juan José Areiza Sánchez!
+<div align="center">
 
-### 💻 Analista y Desarrollador de Software (Tecnólogo ADSO)
+<!-- BANNER DE CABECERA -->
+<img src="https://capsule-render.vercel.app/render?type=waving&color=0:412991,100:3776AB&height=220&section=header&text=JUAN%20JOSÉ%20AREIZA&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=40" width="100%" />
 
----
+<!-- EFECTO TYPING ANIMADO -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F7DF1E&center=true&vCenter=true&width=600&height=50&lines=%F0%9F%90%B3+Tecn%C3%B3logo+ADSO+%7C+SENA+Antioquia;%F0%9F%A4%96+Desarrollador+asistido+por+IA+(CodeGPT);%F0%9F%92%A1+Analista+y+Desarrollador+de+Software;%F0%9F%9A%80+Apasionado+por+la+Innovaci%C3%B3n+y+Productividad" alt="Typing SVG" />
+</a>
 
-## 💡 Sobre mí
-Apasionado Tecnólogo en Análisis y Desarrollo de Software (ADSO) con formación en la construcción, prueba y refactorización de soluciones tecnológicas. Experto en el uso de herramientas de asistencia basada en inteligencia artificial como **CodeGPT** para la optimización de código y pruebas. Destacado por una sólida capacidad lógica, pensamiento analítico y orientación a la resolución de problemas.
-
----
-
-## 🛠️ Tecnologías y Herramientas
-
-<p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/CodeGPT-412991?style=for-the-badge&logo=openai&logoColor=white" alt="CodeGPT" />
-  <img src="https://img.shields.io/badge/Microsoft_365-EA4335?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft 365" />
+<p align="center">
+  <a href="https://linkedin.com/in/tu-perfil"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:tu-correo@ejemplo.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/SENA_ADSO-F37021?style=for-the-badge&logo=sena&logoColor=white" /></a>
 </p>
 
-- **Habilidades Duras (Hard Skills):** Análisis de requerimientos, Refactorización asistida por IA, Pruebas unitarias, Control de versiones, Modelado de bases de datos, Documentación técnica.
-- **Habilidades Blandas (Soft Skills):** Resolución de problemas, Pensamiento analítico, Trabajo en equipo, Adaptabilidad, Comunicación asertiva.
-- **Idiomas:** 
-  - Español (Nativo)
-  - Inglés (B1 Técnico)
-
 ---
 
-## 💼 Experiencia y Formación Académica
+### 🚀 *"La creatividad no es solo programar código, es resolver problemas con visión del futuro."*
 
-### **Tecnología en Análisis y Desarrollo de Software (ADSO)**
-*SENA Regional Antioquia - Centro Textil y de Gestión Industrial (Ficha 3425707)* | *2026 – Presente*
-- Desarrollo de módulos de software aplicando metodologías ágiles y gestión de portafolios en plataformas institucionales.
-- Implementación de refactorización y auditoría de código mediante **CodeGPT** para elevar la eficiencia operativa.
+</div>
 
----
+<br/>
 
-## 📚 Cursos y Formación Continua
-- **Masterclass en Estrategias Mentales y Productividad** (2026)
-- **Refactorización y Pruebas con Inteligencia Artificial (CodeGPT)**
+## 👤 Sobre Mí (`whoami`)
 
----
-
-## 📞 Información de Contacto
-- **Ubicación:** Medellín, Colombia
-- **Correo Electrónico:** juanjo.a2008@gmail.com
-- **LinkedIn:** https://linkedin.com/in/tu-perfil
+```bash
+juan_areiza@developer:~$ cat profile.json
+{
+  "nombre": "Juan José Areiza Sánchez",
+  "rol": "Analista y Desarrollador de Software",
+  "institucion": "SENA Regional Antioquia - CTGI",
+  "ficha": "3425707",
+  "ubicacion": "Medellín, Colombia 🇨🇴",
+  "intereses": ["Desarrollo Web & Móvil", "Refactorización con IA", "Prompt Engineering", "Productividad Mental"],
+  "herramienta_clave": "CodeGPT + GitHub Copilot",
+  "estado_actual": "Construyendo el futuro software a software ⚡"
+}
